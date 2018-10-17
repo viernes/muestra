@@ -1,0 +1,4 @@
+[submodule "viernes/fashion"]
+	path = viernes/fashion
+	url = git@github.com:viernes/fashion.git
+	branch = o4f-0.5
