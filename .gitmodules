@@ -2,3 +2,8 @@
 	path = viernes/fashion
 	url = git@github.com:viernes/fashion.git
 	branch = o4f-0.5
+
+[submodule "xmarts/credit_limit_alert_update"]
+	path = xmarts/credit_limit_alert_update
+	url = git@github.com:xmarts/credit_limit_alert_update.git
+	branch = v2
